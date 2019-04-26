@@ -5,3 +5,9 @@ I am looking for jobs now. I want to share several job-seeking websites for acad
 ## Academia
 
 Higher Education Recruitment Consortium [https://www.hercjobs.org/](https://www.hercjobs.org/)
+
+
+
+## Industry
+
+glassdoor [https://www.glassdoor.com/index.htm](https://www.glassdoor.com/index.htm)
