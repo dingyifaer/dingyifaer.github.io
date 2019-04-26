@@ -1,14 +1,26 @@
 Dear visitors of this web page,
 
-I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards.
+This is Yifaer Ding. I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards.
+
+
+
+Experience of picking a postdoc
+
+[https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf](https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf)
 
 
 
 ## General academic jobs
 
+Academic Careers Online (ACO) [https://www.academiccareers.com/](https://www.academiccareers.com/)
+
+HigherEdJobs [https://www.higheredjobs.com/](https://www.higheredjobs.com/)
+
 Higher Education Recruitment Consortium (HERC) [https://main.hercjobs.org/](https://www.hercjobs.org/)
 
 Inside Higher ED [https://careers.insidehighered.com/](https://careers.insidehighered.com/)
+
+PostdocJobs.com [https://www.postdocjobs.com/](https://www.postdocjobs.com/)
 
 ResearchGate [https://www.researchgate.net/jobs](https://www.researchgate.net/jobs)
 
@@ -32,6 +44,8 @@ Monster [https://www.monster.com/](https://www.monster.com/)
 
 BioSpace [https://www.biospace.com/](https://www.biospace.com/)
 
+National Institute of Health (NIH) [https://www.training.nih.gov/career_services/postdoc_jobs_nih](https://www.training.nih.gov/career_services/postdoc_jobs_nih)
+
 
 
 ## Bioinformatics field jobs
@@ -47,3 +61,5 @@ genomeweb [https://www.genomeweb.com/resources/jobs](https://www.genomeweb.com/r
 International Society for Computational Biology (ISCB) [https://careers.iscb.org/jobs](https://careers.iscb.org/jobs)
 
 RNA-Seq Blog [https://www.rna-seqblog.com/category/jobs-2/](https://www.rna-seqblog.com/category/jobs-2/)
+
+SEQanswers [http://seqanswers.com/forums/forumdisplay.php?f=34](http://seqanswers.com/forums/forumdisplay.php?f=34)
