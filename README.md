@@ -4,4 +4,4 @@ I am looking for jobs now. I want to share several job-seeking websites for acad
 
 ## Academia
 
-Higher Education Recruitment Consortium https://www.hercjobs.org/
+Higher Education Recruitment Consortium [https://www.hercjobs.org/](https://www.hercjobs.org/)
