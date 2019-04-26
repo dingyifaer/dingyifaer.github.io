@@ -10,6 +10,12 @@ Experience of picking a postdoc
 
 
 
+Academic and industrial jobs
+
+DiversityJobs [https://diversityjobs.com/c/](https://diversityjobs.com/c/)
+
+
+
 ## General academic jobs
 
 Academic Careers Online (ACO) [https://www.academiccareers.com/](https://www.academiccareers.com/)
