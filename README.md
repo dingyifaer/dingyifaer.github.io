@@ -42,5 +42,8 @@ Bioinformatics.org [http://www.bioinformatics.org/jobs/](http://www.bioinformati
 
 Biostars [https://www.biostars.org/t/Jobs/](https://www.biostars.org/t/Jobs/)
 
+genomeweb [https://www.genomeweb.com/resources/jobs](https://www.genomeweb.com/resources/jobs)
+
 International Society for Computational Biology (ISCB) [https://careers.iscb.org/jobs](https://careers.iscb.org/jobs)
 
+RNA-Seq Blog [https://www.rna-seqblog.com/category/jobs-2/](https://www.rna-seqblog.com/category/jobs-2/)
