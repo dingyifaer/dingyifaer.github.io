@@ -1,4 +1,6 @@
-I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers
+Dear visitors of this web page,
+
+I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards.
 
 
 
@@ -10,7 +12,7 @@ Inside Higher ED [https://careers.insidehighered.com/](https://careers.insidehig
 
 ResearchGate [https://www.researchgate.net/jobs](https://www.researchgate.net/jobs)
 
-
+Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS) [https://careercenter.sacnas.org/jobs/](https://careercenter.sacnas.org/jobs/)
 
 
 
@@ -33,5 +35,7 @@ BioSpace [https://www.biospace.com/](https://www.biospace.com/)
 
 
 ## Bioinformatics field jobs
+
+Biostars [https://www.biostars.org/t/Jobs/](https://www.biostars.org/t/Jobs/)
 
 International Society for Computational Biology (ISCB) [https://careers.iscb.org/jobs](https://careers.iscb.org/jobs)
