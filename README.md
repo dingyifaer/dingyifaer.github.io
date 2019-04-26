@@ -36,6 +36,11 @@ BioSpace [https://www.biospace.com/](https://www.biospace.com/)
 
 ## Bioinformatics field jobs
 
+bioinformatics.ca [https://bioinformatics.ca/job-postings/#/?&order=desc](https://bioinformatics.ca/job-postings/#/?&order=desc)
+
+Bioinformatics.org [http://www.bioinformatics.org/jobs/](http://www.bioinformatics.org/jobs/)
+
 Biostars [https://www.biostars.org/t/Jobs/](https://www.biostars.org/t/Jobs/)
 
 International Society for Computational Biology (ISCB) [https://careers.iscb.org/jobs](https://careers.iscb.org/jobs)
+
