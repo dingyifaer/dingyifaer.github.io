@@ -20,6 +20,8 @@ DiversityJobs [https://diversityjobs.com/c/](https://diversityjobs.com/c/)
 
 Academic Careers Online (ACO) [https://www.academiccareers.com/](https://www.academiccareers.com/)
 
+ChronicleVitae [https://chroniclevitae.com/job_search/new](https://chroniclevitae.com/job_search/new)
+
 HigherEdJobs [https://www.higheredjobs.com/](https://www.higheredjobs.com/)
 
 Higher Education Recruitment Consortium (HERC) [https://main.hercjobs.org/](https://www.hercjobs.org/)
@@ -30,19 +32,27 @@ PostdocJobs.com [https://www.postdocjobs.com/](https://www.postdocjobs.com/)
 
 ResearchGate [https://www.researchgate.net/jobs](https://www.researchgate.net/jobs)
 
+Science Careers [https://jobs.sciencecareers.org/](https://jobs.sciencecareers.org/)
+
 Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS) [https://careercenter.sacnas.org/jobs/](https://careercenter.sacnas.org/jobs/)
-
-
 
 
 
 ## General industrial jobs
 
-indeed [https://www.indeed.com/](https://www.indeed.com/)
+CareerBuilder [https://www.careerbuilder.com/](https://www.careerbuilder.com/)
+
+careers.org [http://www.careers.org/](http://www.careers.org/)
+
+Dice [https://www.dice.com/](https://www.dice.com/)
 
 glassdoor [https://www.glassdoor.com/index.htm](https://www.glassdoor.com/index.htm)
 
+indeed [https://www.indeed.com/](https://www.indeed.com/)
+
 Monster [https://www.monster.com/](https://www.monster.com/)
+
+SimplyHired [https://www.simplyhired.com/](https://www.simplyhired.com/)
 
 
 
