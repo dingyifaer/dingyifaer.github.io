@@ -68,7 +68,13 @@ Linkedin [https://www.linkedin.com/jobs/search/](https://www.linkedin.com/jobs/s
 
 
 
-## Biology major jobs
+## Computer science major
+
+CyberDoders [https://www.cybercoders.com/jobs/](https://www.cybercoders.com/jobs/)
+
+
+
+## Biology major
 
 BioSpace [https://www.biospace.com/](https://www.biospace.com/)
 
