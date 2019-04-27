@@ -36,7 +36,7 @@ HigherEdJobs [https://www.higheredjobs.com/](https://www.higheredjobs.com/)
 
 Higher Education Recruitment Consortium (HERC) [https://main.hercjobs.org/](https://www.hercjobs.org/)
 
-Inside Higher ED [https://careers.insidehighered.com/](https://careers.insidehighered.com/)
+Inside Higher ED [https://careers.insidehighered.com/searchjobs/](https://careers.insidehighered.com/searchjobs/)
 
 PostdocJobs.com [https://www.postdocjobs.com/](https://www.postdocjobs.com/)
 
