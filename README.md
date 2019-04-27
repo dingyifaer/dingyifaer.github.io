@@ -8,7 +8,7 @@ This is Yifaer Ding. I am looking for jobs now. I want to share several job-seek
 
 [https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf](https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf)
 
-http://www.phdcareerguide.com/
+[http://www.phdcareerguide.com/](http://www.phdcareerguide.com/)
 
 
 
@@ -16,9 +16,11 @@ http://www.phdcareerguide.com/
 
 DiversityJobs [https://diversityjobs.com/c/](https://diversityjobs.com/c/)
 
+jobspider.com [http://www.jobspider.com/job/job-search.asp](http://www.jobspider.com/job/job-search.asp)
+
 NewScientist [https://jobs.newscientist.com/](https://jobs.newscientist.com/)
 
-jobspider.com [http://www.jobspider.com/job/job-search.asp](http://www.jobspider.com/job/job-search.asp)
+
 
 ## Academia-only jobs
 
@@ -27,6 +29,8 @@ Academic Careers Online (ACO) [https://www.academiccareers.com/](https://www.aca
 Academic Positions [https://academicpositions.com/find-jobs/](https://academicpositions.com/find-jobs/)
 
 ChronicleVitae [https://chroniclevitae.com/job_search/new](https://chroniclevitae.com/job_search/new)
+
+Diverse jobs [https://jobs.diversejobs.net/candidate/candadvancedsearch.html](https://jobs.diversejobs.net/candidate/candadvancedsearch.html)
 
 HigherEdJobs [https://www.higheredjobs.com/](https://www.higheredjobs.com/)
 
