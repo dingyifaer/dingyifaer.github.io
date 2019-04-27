@@ -14,9 +14,11 @@ This is Yifaer Ding. I am looking for jobs now. I want to share several job-seek
 
 DiversityJobs [https://diversityjobs.com/c/](https://diversityjobs.com/c/)
 
+NewScientist [https://jobs.newscientist.com/](https://jobs.newscientist.com/)
 
 
-## General academic jobs
+
+## Academia-only jobs
 
 Academic Careers Online (ACO) [https://www.academiccareers.com/](https://www.academiccareers.com/)
 
@@ -38,7 +40,7 @@ Society for Advancement of Chicanos/Hispanics and Native Americans in Science (S
 
 
 
-## General industrial jobs
+## Industry-mainly jobs
 
 CareerBuilder [https://www.careerbuilder.com/](https://www.careerbuilder.com/)
 
@@ -53,6 +55,8 @@ indeed [https://www.indeed.com/](https://www.indeed.com/)
 Monster [https://www.monster.com/](https://www.monster.com/)
 
 SimplyHired [https://www.simplyhired.com/](https://www.simplyhired.com/)
+
+Linkedin https://www.linkedin.com/jobs/search/
 
 
 
