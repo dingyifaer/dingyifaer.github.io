@@ -4,9 +4,11 @@ This is Yifaer Ding. I am looking for jobs now. I want to share several job-seek
 
 
 
-## Experience of picking a postdoc
+## Suggestions on PhD, postdoc, and faculty life
 
 [https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf](https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf)
+
+http://www.phdcareerguide.com/
 
 
 
@@ -16,11 +18,13 @@ DiversityJobs [https://diversityjobs.com/c/](https://diversityjobs.com/c/)
 
 NewScientist [https://jobs.newscientist.com/](https://jobs.newscientist.com/)
 
-
+jobspider.com [http://www.jobspider.com/job/job-search.asp](http://www.jobspider.com/job/job-search.asp)
 
 ## Academia-only jobs
 
 Academic Careers Online (ACO) [https://www.academiccareers.com/](https://www.academiccareers.com/)
+
+Academic Positions [https://academicpositions.com/find-jobs/](https://academicpositions.com/find-jobs/)
 
 ChronicleVitae [https://chroniclevitae.com/job_search/new](https://chroniclevitae.com/job_search/new)
 
