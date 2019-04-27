@@ -56,7 +56,7 @@ Monster [https://www.monster.com/](https://www.monster.com/)
 
 SimplyHired [https://www.simplyhired.com/](https://www.simplyhired.com/)
 
-Linkedin https://www.linkedin.com/jobs/search/
+Linkedin [https://www.linkedin.com/jobs/search/](https://www.linkedin.com/jobs/search/)
 
 
 
