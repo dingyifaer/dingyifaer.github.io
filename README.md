@@ -8,7 +8,7 @@ This is Yifaer Ding. I am a PhD student graduating in May 2019. My major is Biol
 
 
 
-General job websites have more job postings, however major and field specific job websites can provide more relevant job opportunities. So, I will introduce some websites specifically for academia jobs, some websites mostly for industry jobs, some websites for both academic and industrial jobs, some websites for Biology major, and some websites for Bioinformatics field. If you want to share with us your major and field specific job websites or any job websites, please comment under the Youtube video or email me at dingyifaer@gmail.com.
+So, I will introduce some websites specifically for academia, for industry, for both academia and industry, for Biology major, and for Bioinformatics field. General job websites have more job postings, whereas major and field specific job websites can provide more relevant job opportunities.  If you want to share with us your major and field specific job websites or any job websites, please comment under the Youtube video or email me at dingyifaer@gmail.com.
 
 
 
