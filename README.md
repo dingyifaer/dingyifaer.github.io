@@ -1,8 +1,6 @@
 Dear visitors of this web page: [https://dingyifaer.github.io/](https://dingyifaer.github.io/)
 
-This is Yifaer Ding. I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards. If you have any thoughts to share with me, please email me at [dingyifaer@gmail.com]()
-
-
+This is Yifaer Ding. I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards. If you have any thoughts to share with me, please email me at dingyifaer@gmail.com
 
 ## Academic and industrial jobs
 
