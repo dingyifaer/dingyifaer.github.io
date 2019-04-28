@@ -1,6 +1,16 @@
-Dear visitors of this web page: [https://dingyifaer.github.io/](https://dingyifaer.github.io/)
+URL of this web page: [https://dingyifaer.github.io/](https://dingyifaer.github.io/)
 
-This is Yifaer Ding. I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards. If you have any thoughts to share with me, please email me at dingyifaer@gmail.com
+
+
+Hi, everyone,
+
+This is Yifaer Ding. I am a PhD student graduating in May 2019. My major is Biology. My research field is Bioinformatics. I am looking for jobs now. I am mostly interested in finding a postdoc to pursue my academic career, but I browser over industry jobs. I search job postings on several websites. I would like to share the websites that I use so that you have multiple sources to find a suitable job. 
+
+
+
+General job websites have more job postings, however major and field specific job websites can provide more relevant job opportunities. So, I will introduce some websites specifically for academia jobs, some websites mostly for industry jobs, some websites for both academic and industrial jobs, some websites for Biology major, and some websites for Bioinformatics field. If you want to share with us your major and field specific job websites, please comment under the Youtube video or email me at dingyifaer@gmail.com.
+
+
 
 ## Academic and industrial jobs
 
