@@ -4,7 +4,7 @@ URL of this web page: [https://dingyifaer.github.io/](https://dingyifaer.github.
 
 Hi, everyone,
 
-This is Yifaer Ding. I am a PhD student graduating in May 2019. My major is Biology. My research field is Bioinformatics. I am looking for jobs now. I am mostly interested in finding a postdoc to pursue my academic career, but I also browser over industry jobs. I search job postings on several websites. I would like to share the websites that I use so that you have multiple sources to find a suitable job. 
+This is Yifaer Ding. I am a PhD student graduating in May 2019. My major is Biology. My research field is Bioinformatics. I am looking for jobs now. I am mostly interested in finding a postdoc position to pursue my academic career, but I also browser over industry jobs. I search job postings on several websites. I would like to share the websites that I use so that you have multiple sources to find a suitable job. 
 
 
 
