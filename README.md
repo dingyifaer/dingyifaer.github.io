@@ -12,18 +12,6 @@ General job websites have more job postings, however major and field specific jo
 
 
 
-## Academic and industrial jobs
-
-DiversityJobs [https://diversityjobs.com/c/](https://diversityjobs.com/c/)
-
-jobspider.com [http://www.jobspider.com/job/job-search.asp](http://www.jobspider.com/job/job-search.asp)
-
-NewScientist [https://jobs.newscientist.com/](https://jobs.newscientist.com/)
-
-WeHireWomen.com [https://wehirewomen.com/](https://wehirewomen.com/)
-
-WomenForHire.com [http://jobs.womenforhire.com/](http://jobs.womenforhire.com/)
-
 ## Academia-only jobs
 
 Academic Careers Online (ACO) [https://www.academiccareers.com/](https://www.academiccareers.com/)
@@ -71,6 +59,20 @@ Monster [https://www.monster.com/](https://www.monster.com/)
 SimplyHired [https://www.simplyhired.com/](https://www.simplyhired.com/)
 
 Linkedin [https://www.linkedin.com/jobs/search/](https://www.linkedin.com/jobs/search/)
+
+
+
+## Academic and industrial jobs
+
+DiversityJobs [https://diversityjobs.com/c/](https://diversityjobs.com/c/)
+
+jobspider.com [http://www.jobspider.com/job/job-search.asp](http://www.jobspider.com/job/job-search.asp)
+
+NewScientist [https://jobs.newscientist.com/](https://jobs.newscientist.com/)
+
+WeHireWomen.com [https://wehirewomen.com/](https://wehirewomen.com/)
+
+WomenForHire.com [http://jobs.womenforhire.com/](http://jobs.womenforhire.com/)
 
 
 
