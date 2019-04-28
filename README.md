@@ -1,14 +1,6 @@
 Dear visitors of this web page: [https://dingyifaer.github.io/](https://dingyifaer.github.io/)
 
-This is Yifaer Ding. I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards.
-
-
-
-## Suggestions on PhD, postdoc, and faculty life
-
-[https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf](https://www.training.nih.gov/assets/Picking_a_postoc_508.pdf)
-
-[http://www.phdcareerguide.com/](http://www.phdcareerguide.com/)
+This is Yifaer Ding. I am looking for jobs now. I want to share several job-seeking websites for academic and industrial positions. Usually, job seekers go to the general websites, however, major and field related websites are more accurate and helpful for individual job seekers. Thereby, I also list Biology major and Bioinformatics job posting boards. If you have any thoughts to share with me, please email me at [dingyifaer@gmail.com]()
 
 
 
@@ -20,7 +12,9 @@ jobspider.com [http://www.jobspider.com/job/job-search.asp](http://www.jobspider
 
 NewScientist [https://jobs.newscientist.com/](https://jobs.newscientist.com/)
 
+WeHireWomen.com [https://wehirewomen.com/](https://wehirewomen.com/)
 
+WomenForHire.com [http://jobs.womenforhire.com/](http://jobs.womenforhire.com/)
 
 ## Academia-only jobs
 
@@ -37,6 +31,8 @@ HigherEdJobs [https://www.higheredjobs.com/](https://www.higheredjobs.com/)
 Higher Education Recruitment Consortium (HERC) [https://main.hercjobs.org/](https://www.hercjobs.org/)
 
 Inside Higher ED [https://careers.insidehighered.com/searchjobs/](https://careers.insidehighered.com/searchjobs/)
+
+Nature Careers [https://www.nature.com/naturecareers/](https://www.nature.com/naturecareers/)
 
 PostdocJobs.com [https://www.postdocjobs.com/](https://www.postdocjobs.com/)
 
@@ -55,6 +51,8 @@ CareerBuilder [https://www.careerbuilder.com/](https://www.careerbuilder.com/)
 careers.org [http://www.careers.org/](http://www.careers.org/)
 
 Dice [https://www.dice.com/](https://www.dice.com/)
+
+diversityworking.com [https://www.diversityworking.com/](https://www.diversityworking.com/)
 
 glassdoor [https://www.glassdoor.com/index.htm](https://www.glassdoor.com/index.htm)
 
@@ -97,3 +95,12 @@ International Society for Computational Biology (ISCB) [https://careers.iscb.org
 RNA-Seq Blog [https://www.rna-seqblog.com/category/jobs-2/](https://www.rna-seqblog.com/category/jobs-2/)
 
 SEQanswers [http://seqanswers.com/forums/forumdisplay.php?f=34](http://seqanswers.com/forums/forumdisplay.php?f=34)
+
+
+
+### Regional job websites
+
+#### California
+
+BAjobs.com https://www.bajobs.com/
+
