@@ -100,5 +100,5 @@ SEQanswers [http://seqanswers.com/forums/forumdisplay.php?f=34](http://seqanswer
 
 #### California
 
-BAjobs.com https://www.bajobs.com/
+BAjobs.com [https://www.bajobs.com/](https://www.bajobs.com/)
 
