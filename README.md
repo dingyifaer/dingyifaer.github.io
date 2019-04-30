@@ -1,14 +1,16 @@
-URL of this web page: [https://dingyifaer.github.io/](https://dingyifaer.github.io/)
-
-
-
 Hi, everyone,
 
-This is Yifaer Ding. I am a PhD student graduating in May 2019. My major is Biology. My research field is Bioinformatics. I am looking for jobs now. I am mostly interested in finding a postdoc position to pursue my academic career, but I also browse over industry jobs. I search job postings on several websites. I would like to share the websites that I use so that you have multiple sources to find a suitable job. 
+This is Yifaer Ding.  I am a PhD student in Biology major and Bioinformatics field. So, I will introduce some websites specifically for academia, for industry, for both academia and industry, for Biology major, and for Bioinformatics field. General job websites have more job postings, whereas major and field specific job websites can provide more relevant job opportunities.  If you want to share with us your major and field specific job websites or any job websites, please feel free to contact me as follows, 
 
 
 
-So, I will introduce some websites specifically for academia, for industry, for both academia and industry, for Biology major, and for Bioinformatics field. General job websites have more job postings, whereas major and field specific job websites can provide more relevant job opportunities.  If you want to share with us your major and field specific job websites or any job websites, please feel free to comment under the Youtube video or email me at dingyifaer@gmail.com. Now let's go through the website list.
+URL of personal homepage: [https://dingyifaer.github.io/](https://dingyifaer.github.io/)
+
+Youtube channel (English): 
+
+YouTube channel (Chinese):
+
+Email address: dingyifaer@gmail.com (for Chinese user), yifaerding@gmail.com (for English user)
 
 
 
