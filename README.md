@@ -1,6 +1,6 @@
 Hi, everyone,
 
-This is Yifaer Ding.  I am a PhD student in Biology major and Bioinformatics field. So, I will introduce some websites specifically for academia, for industry, for both academia and industry, for Biology major, and for Bioinformatics field. General job websites have more job postings, whereas major and field specific job websites can provide more relevant job opportunities.  If you want to share with us your major and field specific job websites or any job websites, please feel free to contact me as follows, 
+This is Yifaer Ding.  I am a graduating PhD student in Biology major and Bioinformatics field. So, I will introduce some websites specifically for academia, for industry, for both academia and industry, for Biology major, and for Bioinformatics field. General job websites have more job postings, whereas major and field specific job websites can provide more relevant job opportunities.  If you want to share with us your major and field specific job websites or any job websites, please feel free to contact me as follows, 
 
 
 
