@@ -82,7 +82,7 @@ WomenForHire.com [http://jobs.womenforhire.com/](http://jobs.womenforhire.com/)
 
 CyberDoders [https://www.cybercoders.com/jobs/](https://www.cybercoders.com/jobs/)
 
-## Mathematics
+## Mathematics major
 
 [https://www.mathjobs.org/jobs/jobs](https://www.mathjobs.org/jobs/jobs)
 
