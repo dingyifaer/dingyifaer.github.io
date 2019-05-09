@@ -10,7 +10,7 @@ Youtube channel (English):
 
 YouTube channel (Chinese):
 
-Email address: dingyifaer@gmail.com (for Chinese user), yifaerding@gmail.com (for English user)
+Email address: dingyifaer@gmail.com
 
 
 
@@ -93,6 +93,8 @@ MathJobs.Org [https://www.mathjobs.org/jobs/jobs](https://www.mathjobs.org/jobs/
 BioSpace [https://www.biospace.com/](https://www.biospace.com/)
 
 National Institute of Health (NIH) [https://www.training.nih.gov/career_services/postdoc_jobs_nih](https://www.training.nih.gov/career_services/postdoc_jobs_nih)
+
+Massachusetts Biotechnology Council [https://careers.massbio.org/](https://careers.massbio.org/)
 
 
 
