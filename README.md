@@ -84,7 +84,7 @@ CyberDoders [https://www.cybercoders.com/jobs/](https://www.cybercoders.com/jobs
 
 ## Mathematics major
 
-[https://www.mathjobs.org/jobs/jobs](https://www.mathjobs.org/jobs/jobs)
+MathJobs.Org [https://www.mathjobs.org/jobs/jobs](https://www.mathjobs.org/jobs/jobs)
 
 
 
