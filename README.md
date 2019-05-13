@@ -6,10 +6,6 @@ This is Yifaer Ding.  I am a graduating PhD student in Biology major and Bioinfo
 
 URL of personal homepage: [https://dingyifaer.github.io/](https://dingyifaer.github.io/)
 
-Youtube channel (English): 
-
-YouTube channel (Chinese):
-
 Email address: dingyifaer@gmail.com
 
 
