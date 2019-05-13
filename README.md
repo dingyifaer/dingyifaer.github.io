@@ -40,6 +40,8 @@ Science Careers [https://jobs.sciencecareers.org/](https://jobs.sciencecareers.o
 
 Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS) [https://careercenter.sacnas.org/jobs/](https://careercenter.sacnas.org/jobs/)
 
+UniversityJobs.Com [https://www.universityjobs.com/](https://www.universityjobs.com/)
+
 
 
 ## Industry-mainly jobs
