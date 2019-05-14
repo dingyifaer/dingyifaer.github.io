@@ -68,6 +68,8 @@ jobspider.com [http://www.jobspider.com/job/job-search.asp](http://www.jobspider
 
 NewScientist [https://jobs.newscientist.com/](https://jobs.newscientist.com/)
 
+handshake (login with your own university) [https://app.joinhandshake.com/login](https://app.joinhandshake.com/login)
+
 WeHireWomen.com [https://wehirewomen.com/](https://wehirewomen.com/)
 
 WomenForHire.com [http://jobs.womenforhire.com/](http://jobs.womenforhire.com/)
