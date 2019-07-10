@@ -104,6 +104,8 @@ National Institute of Health (NIH) [https://www.training.nih.gov/career_services
 
 Massachusetts Biotechnology Council [https://careers.massbio.org/](https://careers.massbio.org/)
 
+Gurdon Institute of University of Cambridge [https://www.gurdon.cam.ac.uk/join-us-folder](https://www.gurdon.cam.ac.uk/join-us-folder)
+
 
 
 ## Bioinformatics field jobs
