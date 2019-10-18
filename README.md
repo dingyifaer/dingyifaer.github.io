@@ -18,8 +18,6 @@ Academic Positions [https://academicpositions.com/find-jobs/](https://academicpo
 
 ChronicleVitae [https://chroniclevitae.com/job_search/new](https://chroniclevitae.com/job_search/new)
 
-Diverse jobs [https://jobs.diversejobs.net/candidate/candadvancedsearch.html](https://jobs.diversejobs.net/candidate/candadvancedsearch.html)
-
 HigherEdJobs [https://www.higheredjobs.com/](https://www.higheredjobs.com/)
 
 Higher Education Recruitment Consortium (HERC) [https://main.hercjobs.org/](https://www.hercjobs.org/)
