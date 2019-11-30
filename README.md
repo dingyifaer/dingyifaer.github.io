@@ -1,6 +1,6 @@
 Hi, everyone,
 
-Here I introduce some websites specifically for academia, for industry, for both academia and industry, for specific major, and for specific field. General job websites have more job postings, whereas major and field specific job websites can provide more relevant job opportunities.  If you want to share with us your major and field specific job websites or any job websites, please feel free to contact me at the email address: dingyifaer@gmail.com
+Here I introduce some websites specifically for academia, for industry, for both academia and industry, for specific major, and for specific field. General job websites have more job postings, whereas major and field specific job websites can provide more relevant job opportunities.
 
 
 
